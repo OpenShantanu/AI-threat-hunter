@@ -131,7 +131,7 @@ Displays the highest-ranked connections by threat confidence score.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-threat-hunter.git
+git clone https://github.com/OepnShantanu/AI-threat-hunter.git
 cd AI-threat-hunter
 ```
 
@@ -146,6 +146,19 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
+
+---
+## Dashboard Overview
+
+![Dashboard](screenshots/dashboard_overview.png)
+
+## Anomaly Distribution
+
+![Anomaly Chart](screenshots/anomaly_detection.png)
+
+## Threat Analysis
+
+![Threat Table](screenshots/threat_tables.png)
 
 ---
 
